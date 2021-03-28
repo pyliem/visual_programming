@@ -1,3 +1,5 @@
+# NOTE this could be used, but will provide confusion if your application is
+# getting more complex
 from PyQt5.QtWidgets import QApplication, QWidget, QComboBox, QLabel, QFormLayout
 
 
